@@ -21,7 +21,7 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
+git clone https://github.com/CheckThisIn/nextjs-nft-marketplace-moralis-fcc
 cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
@@ -197,7 +197,7 @@ And you'll have your front end, indexing service running, and blockchain running
 1. Clone the backend repo
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
+git clone https://github.com/CheckThisIn/hardhat-nft-marketplace-fcc
 cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 yarn hardhat node
@@ -207,7 +207,7 @@ Leave that terminal running^
 2. Clone the frontend
 
 ```
-git clone https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
+git clone https://github.com/CheckThisIn/nextjs-nft-marketplace-moralis-fcc
 cd nextjs-nft-marketplace-moralis-fcc
 yarn
 ```
